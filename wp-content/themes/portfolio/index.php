@@ -62,7 +62,10 @@
           <div class="col-lg-4 box">
             <i class="ion-ios-bookmarks-outline"></i>
             <h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <p class="description">Inani Beach
+Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes. The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
+
+The water of Inani beach is very clean compared to the local beaches in the main town of Cox’s Bazar, which is the main reason people enjoy swimming and bathing. Furthermore, the sunset view of Inani beach is magnificent, we’d suggest taking a camera to capture some of the precious natural moments.</p>
           </div>
 
           <div class="col-lg-4 box box-bg">
@@ -89,7 +92,14 @@
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>Top 10 Places to Visit in Cox’s Bazar
+It is challenging for the people who lead a corporate lifestyle to manage free time for their families. When they surprisingly get a vacation once in a blue moon, they’d want to spend some quality fun time with their wives and children by visiting the largest sea beach in the world, Cox’s Bazar.
+Are you people not familiar with all the places situated on this beach? No worries, we have listed down the top 10 places to visit in Cox’s Bazar.
+Get started. We can sense that you are interested already!
+
+Top 10 Places to Visit in Cox’s Bazar: A District with Numerous Tourist Spots
+
+Cox’s Bazar is termed one of the most attractive places for tourists, and people from across the country come to visit this mother nature. If we wish to list all the places in Cox’s Bazar, the list will not end, but here are some must-visit spots.</p>
         </header>
 
         <div class="row about-cols">

@@ -568,7 +568,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 120px;
   height: 1px;
-  background: #ddd;
+  background: #191818;
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -587,7 +587,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-header p {
   text-align: center;
   padding-bottom: 30px;
-  color: #333;
+  color: #0f0e0e;
 }
 
 /* Section with background
