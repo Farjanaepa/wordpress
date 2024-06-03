@@ -3,9 +3,9 @@
   <!--==========================
     main Section
   ============================-->
-  <section id="main">
+  <section id="main" style="background-color:#CCE5FF";>
     <div class="main-container">
-      <div id="mainCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+      <div id="mainCarousel" class="carousel  slide carousel-fade" data-ride="carousel" >
 
         <ol class="carousel-indicators"></ol>
 
@@ -62,22 +62,19 @@
           <div class="col-lg-4 box">
             <i class="ion-ios-bookmarks-outline"></i>
             <h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>
-            <p class="description">Inani Beach
-Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes. The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
 
-The water of Inani beach is very clean compared to the local beaches in the main town of Cox’s Bazar, which is the main reason people enjoy swimming and bathing. Furthermore, the sunset view of Inani beach is magnificent, we’d suggest taking a camera to capture some of the precious natural moments.</p>
           </div>
 
           <div class="col-lg-4 box box-bg">
             <i class="ion-ios-stopwatch-outline"></i>
             <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <!-- <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p> -->
           </div>
 
           <div class="col-lg-4 box">
             <i class="ion-ios-heart-outline"></i>
             <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <!-- <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p> -->
           </div>
 
         </div>
@@ -92,7 +89,7 @@ The water of Inani beach is very clean compared to the local beaches in the main
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>Top 10 Places to Visit in Cox’s Bazar
+          <p style="color:gray";>Top 10 Places to Visit in Cox’s Bazar
 It is challenging for the people who lead a corporate lifestyle to manage free time for their families. When they surprisingly get a vacation once in a blue moon, they’d want to spend some quality fun time with their wives and children by visiting the largest sea beach in the world, Cox’s Bazar.
 Are you people not familiar with all the places situated on this beach? No worries, we have listed down the top 10 places to visit in Cox’s Bazar.
 Get started. We can sense that you are interested already!
@@ -151,7 +148,7 @@ Cox’s Bazar is termed one of the most attractive places for tourists, and peop
     <!--==========================
       Services Section
     ============================-->
-    <section id="services">
+    <!-- <section id="services">
       <div class="container">
 
         <header class="section-header wow fadeInUp">
@@ -195,7 +192,7 @@ Cox’s Bazar is termed one of the most attractive places for tourists, and peop
         </div>
 
       </div>
-    </section><!-- #services -->
+    </section>#services -->
 
     <!--==========================
       Call To Action Section
@@ -211,7 +208,7 @@ Cox’s Bazar is termed one of the most attractive places for tourists, and peop
     <!--==========================
       Skills Section
     ============================-->
-    <section id="skills">
+    <!-- <section id="skills">
       <div class="container">
 
         <header class="section-header">
@@ -248,12 +245,12 @@ Cox’s Bazar is termed one of the most attractive places for tourists, and peop
         </div>
 
       </div>
-    </section>
+    </section> -->
 
     <!--==========================
       Facts Section
     ============================-->
-    <section id="facts"  class="wow fadeIn">
+    <!-- <section id="facts"  class="wow fadeIn">
       <div class="container">
 
         <header class="section-header">
@@ -290,12 +287,12 @@ Cox’s Bazar is termed one of the most attractive places for tourists, and peop
         </div>
 
       </div>
-    </section><!-- #facts -->
+    </section>#facts -->
 
     <!--==========================
       Portfolio Section
     ============================-->
-    <section id="portfolio"  class="section-bg" >
+    <!-- <section id="portfolio"  class="section-bg" >
       <div class="container">
 
         <header class="section-header">
@@ -453,7 +450,7 @@ Cox’s Bazar is termed one of the most attractive places for tourists, and peop
         </div>
 
       </div>
-    </section><!-- #portfolio -->
+    </section>#portfolio -->
 
     <!--==========================
       Clients Section
